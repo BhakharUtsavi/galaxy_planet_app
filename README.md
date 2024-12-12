@@ -1,16 +1,27 @@
-# galaxy_planet_app
+Galaxy_planet_app
 
-A new Flutter project.
+Splash Screen
 
-## Getting Started
+![splash](https://github.com/user-attachments/assets/c7316a6e-b914-4f45-991f-62f1f34c697b)
 
-This project is a starting point for a Flutter application.
+Home Page
 
-A few resources to get you started if this is your first Flutter project:
+![home](https://github.com/user-attachments/assets/b559cab4-ac1a-49a9-95bb-75da097ff349)
+![home2](https://github.com/user-attachments/assets/cd19e580-0d2f-4099-a8a9-984f2c36d13b)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Detail Page
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![detail](https://github.com/user-attachments/assets/f625fda4-8dd2-4bfe-a4fc-990505200284)
+
+Favorite Page
+
+![fav](https://github.com/user-attachments/assets/4f90ab89-9872-405d-84ba-a60b0a66bc08)
+![detail2](https://github.com/user-attachments/assets/3d0c70db-f847-4555-b818-e068b7f46273)
+![fav2](https://github.com/user-attachments/assets/14ea9ad9-164c-47de-986f-3128affb0a33)
+
+
+Video
+
+https://github.com/user-attachments/assets/733d486e-1e67-4c4a-9073-5a8aaedd35b4
+
+
