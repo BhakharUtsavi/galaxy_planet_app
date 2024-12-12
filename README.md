@@ -1,5 +1,20 @@
 Galaxy_planet_app
 
+using MVP Structure...
+
+1. Model
+2. View
+3. Provider
+
+Pages...
+
+I)   Welcome Page
+II)  Home Page
+III) Detail Page
+IV)  Favorite Page
+
+All Pages Screenshot.....
+
 Splash Screen
 
 ![splash](https://github.com/user-attachments/assets/c7316a6e-b914-4f45-991f-62f1f34c697b)
@@ -20,7 +35,7 @@ Favorite Page
 ![fav2](https://github.com/user-attachments/assets/14ea9ad9-164c-47de-986f-3128affb0a33)
 
 
-Video
+Video Of this Application :
 
 https://github.com/user-attachments/assets/733d486e-1e67-4c4a-9073-5a8aaedd35b4
 
